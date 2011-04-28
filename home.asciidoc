@@ -1,0 +1,37 @@
+= Getting Started Guide
+
+Welcome to Maker Press!  Use this document to create a skeleton of your outline, and then enter your AsciiDoc content using the links.  See the "Home" page for more details.
+
+[[intro]]
+
+== Chapter 1
+
+[[ch1-intro-text]]
+
+=== Chapter 1.A
+
+[[ch1-a]]
+
+=== Chapter 1.B
+
+[[ ch1-b]]
+
+==== Chapter 1.B.1
+
+[[c1-1-b-1]]
+
+==== Chapter 1.B.2
+
+[[c1-1-b-2]]
+
+== Chapter 2
+
+[[ch2-intro]]
+
+=== Chapter 2.A
+
+[[ch2-a]]
+
+=== Chapter 2.B
+
+[[ch2-b]]
